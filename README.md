@@ -2,7 +2,8 @@
 
 ## How to download
 ```shell
-
+# ensure have installed git
+git clone https://github.com/weiawesome/annoy_windows.git
 ```
 
 ## How to start
